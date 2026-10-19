@@ -21,15 +21,15 @@
 title: User Group Toolkit
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Open source tools for AWS User Group leaders: run your meetup on the room
+  screen from the Meetup link, fill your slide deck, keep your meetup history
+  on your website, and more. Not affiliated with AWS.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "htps://www.usergroup-toolkit.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.usergroup-toolkit.com" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "usergroup-toolkit.com"
 twitter_username: jekyllrb
 github_username:  jekyll
-repository: "aws-user-group-toolkit/usergroup-tookit.com"
+repository: "aws-user-group-toolkit/usergroup-toolkit.com"
 breadcrumbs: true  # disabled by default
 
 logo: "/assets/images/user_group_toolkit_logo.png"
